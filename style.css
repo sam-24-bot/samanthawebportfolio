@@ -1,11 +1,38 @@
 #gitlogo{
-    width:90px
+    width:90px;
+    margin-bottom:50px;
 }
 
 #linkedinlogo{
-    width:30px
+    width:30px;
 }
 
 #smallgitlogo{
-    width:30px
+    width:30px;
+}
+
+.card {
+    border: 1px solid black;
+}
+
+.card-body{
+    border: 1px solid black;
+}
+
+
+
+.container{
+    background-color: #e5f2e5;  
+}
+
+.card-img-top{
+    background-color: #ffffff;
+}
+
+.card-body{
+    background-color: #ffffff;
+}
+
+#menu{
+    background-color: #e5f2e5; 
 }
